@@ -17,7 +17,7 @@ Linux rhel 5.14.0-162.6.1.el9_1.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Sep 30 07:36:0
 
 ```
 
-You may have to install `meson` as root with `sudo pip3 install meson` if you encounter any error on the last comment. You will then have to delete `builddir` and rebuild as root.
+You may have to install `meson` as root with `sudo pip3 install meson` if you encounter any error following the last. You will then have to delete `builddir` and rebuild as root.
 
 ## Restart gnome with 
 ```
