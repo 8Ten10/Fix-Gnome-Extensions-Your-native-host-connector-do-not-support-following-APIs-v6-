@@ -6,7 +6,7 @@ op@rhel ~]$ uname -a
 Linux rhel 5.14.0-162.6.1.el9_1.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Sep 30 07:36:03 EDT 2022 x86_64 x86_64 x86_64 GNU/Linux
 [op@rhel ~]$ 
 ```
-#Install gnome-browser-connector
+### Install gnome-browser-connector
 
 ## Buiding From Source
 ```
