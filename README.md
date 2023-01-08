@@ -1,4 +1,4 @@
-# Fix-Gnome-Extensions-Your-native-host-connector-do-not-support-following-APIs-v6-
+# Fix Gnome-Extensions "Your native host connector do not support following APIsv6"
 
 
 ```
